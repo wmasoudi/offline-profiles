@@ -1,0 +1,11 @@
+.toolchain/
+build/
+dist/
+apk_analysis/
+*.apk
+*.idsig
+*.ap_
+*.dex
+*.class
+*.jar
+__pycache__/
